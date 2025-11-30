@@ -1,0 +1,2 @@
+psutil>=5.9
+python-chess>=1.999
